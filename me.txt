@@ -1,0 +1,8 @@
+Keshav-1
+Keshav-1
+Keshav-1
+buy = 85,448
+sell = 30,222
+net = 55,226 invested
+worth now = 43,599.70
+net  = 11,000 loss
